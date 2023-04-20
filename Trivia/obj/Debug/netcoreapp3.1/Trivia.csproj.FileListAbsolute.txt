@@ -1,0 +1,14 @@
+C:\Users\cmunozj\source\repos\Trivia\Trivia\bin\Debug\netcoreapp3.1\Trivia.exe
+C:\Users\cmunozj\source\repos\Trivia\Trivia\bin\Debug\netcoreapp3.1\Trivia.deps.json
+C:\Users\cmunozj\source\repos\Trivia\Trivia\bin\Debug\netcoreapp3.1\Trivia.runtimeconfig.json
+C:\Users\cmunozj\source\repos\Trivia\Trivia\bin\Debug\netcoreapp3.1\Trivia.runtimeconfig.dev.json
+C:\Users\cmunozj\source\repos\Trivia\Trivia\bin\Debug\netcoreapp3.1\Trivia.dll
+C:\Users\cmunozj\source\repos\Trivia\Trivia\bin\Debug\netcoreapp3.1\Trivia.pdb
+C:\Users\cmunozj\source\repos\Trivia\Trivia\obj\Debug\netcoreapp3.1\Trivia.csproj.AssemblyReference.cache
+C:\Users\cmunozj\source\repos\Trivia\Trivia\obj\Debug\netcoreapp3.1\Trivia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmunozj\source\repos\Trivia\Trivia\obj\Debug\netcoreapp3.1\Trivia.AssemblyInfoInputs.cache
+C:\Users\cmunozj\source\repos\Trivia\Trivia\obj\Debug\netcoreapp3.1\Trivia.AssemblyInfo.cs
+C:\Users\cmunozj\source\repos\Trivia\Trivia\obj\Debug\netcoreapp3.1\Trivia.csproj.CoreCompileInputs.cache
+C:\Users\cmunozj\source\repos\Trivia\Trivia\obj\Debug\netcoreapp3.1\Trivia.dll
+C:\Users\cmunozj\source\repos\Trivia\Trivia\obj\Debug\netcoreapp3.1\Trivia.pdb
+C:\Users\cmunozj\source\repos\Trivia\Trivia\obj\Debug\netcoreapp3.1\Trivia.genruntimeconfig.cache
